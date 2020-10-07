@@ -11,15 +11,15 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "strapi": "3.2.0",
-    "strapi-admin": "3.2.0",
-    "strapi-utils": "3.2.0",
-    "strapi-plugin-content-type-builder": "3.2.0",
-    "strapi-plugin-content-manager": "3.2.0",
-    "strapi-plugin-users-permissions": "3.2.0",
-    "strapi-plugin-email": "3.2.0",
-    "strapi-plugin-upload": "3.2.0",
-    "strapi-connector-bookshelf": "3.2.0",
+    "strapi": "3.2.1",
+    "strapi-admin": "3.2.1",
+    "strapi-utils": "3.2.1",
+    "strapi-plugin-content-type-builder": "3.2.1",
+    "strapi-plugin-content-manager": "3.2.1",
+    "strapi-plugin-users-permissions": "3.2.1",
+    "strapi-plugin-email": "3.2.1",
+    "strapi-plugin-upload": "3.2.1",
+    "strapi-connector-bookshelf": "3.2.1",
     "knex": "<0.20.0",
     "pg": "latest",
     "mime-types": "^2.1.27",
@@ -29,7 +29,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "7fb71a1e-f0d4-4ddd-9dfd-0424fe7442fb",
+    "uuid": "429fae1d-fb2e-4300-8803-bad8ce5309d5",
     "template": "https://github.com/strapi/strapi-template-blog"
   },
   "engines": {
