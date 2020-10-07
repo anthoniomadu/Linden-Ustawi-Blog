@@ -21,7 +21,7 @@
     "strapi-plugin-upload": "3.2.1",
     "strapi-connector-bookshelf": "3.2.1",
     "knex": "<0.20.0",
-    "pg": "latest",
+    "sqlite3": "latest",
     "mime-types": "^2.1.27",
     "strapi-plugin-graphql": "3.2.0-beta.0"
   },
@@ -29,7 +29,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "429fae1d-fb2e-4300-8803-bad8ce5309d5",
+    "uuid": "7dd6d642-d738-480c-b32d-7a732fd48df8",
     "template": "https://github.com/strapi/strapi-template-blog"
   },
   "engines": {
