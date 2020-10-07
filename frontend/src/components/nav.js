@@ -34,7 +34,7 @@ const Nav = () => (
                 className="uk-button uk-button-default uk-margin-right"
                 type="button"
               >
-                Category
+                Categories
               </button>
               <div uk-dropdown="animation: uk-animation-slide-top-small; duration: 1000">
                 <ul className="uk-nav uk-dropdown-nav">
